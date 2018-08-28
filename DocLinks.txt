@@ -1,0 +1,11 @@
+https://msdn.microsoft.com/en-us/library/azure/ad/graph/api/directoryroles-operations
+
+https://developer.microsoft.com/en-us/graph/docs/concepts/auth_overview
+
+https://developer.microsoft.com/en-us/graph/docs/concepts/rest
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios
+
+https://blogs.msdn.microsoft.com/aadgraphteam/2013/04/08/differential-query-in-windows-azure-active-directory-graph/
+
+https://docs.microsoft.com/en-us/rest/api/azure/
